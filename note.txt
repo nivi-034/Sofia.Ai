@@ -8,4 +8,21 @@ Terminal 2:
 2. cd ai_backend
 3. python app.py
 
-oii location prb ilaiya.... lla
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git: https://github.com/nivi-034/Sofia.Ai
+
